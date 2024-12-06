@@ -1,4 +1,11 @@
-# Olá, eu sou Shawty!
+# 👋 *Hello, Coders!*
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://cdn.discordapp.com/banners/627501356093276231/a_023e0818758acfda0da01fa1b2f90980.gif?size=512" alt="Natal" />
+</div>
+
+### ⛄️ Sobre Mim
+Opa, meu nome é **Vitor**, mais conhecido como **Shawty**.
 
 ### 🔨 Tools
 - <img src="https://raw.githubusercontent.com/termux/termux-app/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" align="center" width="25" height="25"> **Termux**
