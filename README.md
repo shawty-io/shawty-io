@@ -17,4 +17,4 @@ Opa, meu nome é **Vitor**, mais conhecido como **Shawty**.
 - <img src="https://cdn.discordapp.com/attachments/1311285578255568896/1314674464637583572/images-1.png?ex=6754a181&is=67535001&hm=f6df924729fd4dd148d62b990801cce12ae3e66846a2b9eb92ae2f15ab82cf1a&" align="center" width="25" height="25"> **[Base Discord.js v14](https://github.com/shawty-io/Base-Discord.js)**
 
 ### 📧 Contato
-- <img src="https://cdn.discordapp.com/attachments/1311285578255568896/1314674797350883450/b5d4ce10a744861ffd3314d20d116976.jpg?ex=6754a1d1&is=67535051&hm=f88001ca7d0e52bd189ffa001bd554b819d95ca8061eb3d2d8f866381c202f9d&" align="center" width="25" height="25"> **[shawty.io](https://discord.com/users/627501356093276231)**
+- **Discord: [shawty.io](https://discord.com/users/627501356093276231)**
